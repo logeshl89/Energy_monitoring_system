@@ -1,0 +1,15 @@
+hour
+day_of_week
+month
+Average_Voltage_LN
+Average_Current
+Average_PF
+Current_I1
+Current_I2
+Current_I3
+Voltage_V1N
+Voltage_V2N
+Voltage_V3N
+PF1
+PF2
+PF3
