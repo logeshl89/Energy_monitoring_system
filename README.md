@@ -161,6 +161,3 @@ Training produces several output files:
 - `predictions_results.csv`: Sample predictions on dataset
 - Various log and temporary files
 
-## License
-
-This project is licensed for educational and research purposes.
